@@ -13,7 +13,7 @@ and open the template in the editor.
         <?php
         $a=0;
         $b=0;
-        for($i=0; $i<10; $i++){
+        for($i=0; $i<5; $i++){
             $a+=10;
             $b+=5;
         }
